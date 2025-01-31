@@ -38,15 +38,22 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva](https://www.canva.com)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via chatgpt ( verão em portugu~ês)
+Bem vindos ao podcast "TEA no Brasil:diagnóstico, tratamento e desafios para um futuro melhor". Neste episódio vamos falar de forma resumida sobre o que é o Transtorno do Espectro Autista, como se dá o diagnóstico e o tratamento e sobre os desafios enfrentados no Brasil para melhorar a qualidade de vida das pessoas com TEA e de suas famílias.
+O Transtorno do Espectro Autista , ou TEA, é uma condição do desenvolvimento que afeta a comunicação, o comportamento e a interação social. A intensidade e a forma como o TEA se manifesta variam de pessoa para pessoa, por isso o termo "espectro", que engloba uma gama de características e necessidades.
+No Brasil, o diagnóstico do TEA pode ser realizado por médicos, tais como ,pediatras, neurologistas, e psiquiatras. Os profissionais utilizam ferramentas padronizadas, como o DSM-5 (Manual  Diagnóstico e Estatístico de Transtornos Mentais) e a CID-10 (Classificação Internacional de Doenças), que ajudam a identificar os sintomas e a gravidade do transtorno. O processo geralmente envolve uma avaliação clínica detalhada, observação do comportamento da criança ou do adulto e entrevistas com familiares. Contribuem para o processo, educadores, psicólogos e fonoaudiólogos. É importante lembrar que  um diagnóstico precoce facilita o acesso a tratamentos e intervenções. O diagnóstico pode se dar geralmente a partir dos dois anos de idade, quando os sinais começam a se tornar mais evidentes. Quanto ao tratamento, não existe uma cura para o TEA, mas com o acompanhamento adequado, crianças e adultos podem aprender a lidar com as dificuldades e melhorar suas habilidades. O tratamento envolve terapias diversas, como a terapia comportamental, fonoaudiologia, terapias ocupacionais, e em alguns casos, o uso de medicamentos para lidar com sintomas específicos, como por exemplo, ansiedade ou hiperatividade.  O TEA é classificado em três níveis de  gravidade conforme o DSM-5:
+Nível 1: requer suporte. Indivíduos podem ter dificuldades em iniciar interações sociais e podem ter dificuldades em ajustar seu comportamento a diferentes contextos sociais.
+Nível 2: Requer suporte substancial. Apresentam dificuldades mais evidentes em comunicação e interações sociais , além de comportamentos restritivos e repetitivos que são mais intensos,
+Nível 3: Requer suporte muito substancial.
+O Brasil ainda enfrenta muitos desafios quando se trata do diagnóstico e do tratamento do TEA. A falta de profissionais capacitados, a escassez de recursos e a falta de uma rede de apoio adequada dificultam o acesso a cuidados de qualidade, especialmente em regiões mais afastadas dos grandes centros urbanos. Além disso, é fundamentalaqumentar a conscientização sobre o TEA, tanto entre os profissionais de saúde, quanto entre a sociedade em geral, para que as pessoas com TEA possam ser incluídas de forma plena e respeitosa na sociedade.  É urgente que haja investimentos em capacitação profissional e ampliação do acesso  a terapias especializadas, pois o acesso a terapis ainda é muito restrito. No que diz respeito à educação, apesar dos avanços na legislação  ainda há muito oa se fazer para que se tenha uma educação de fato inclusiva. Na esfera pública, é urgente que haja investimentos na formação e aperfeiçoamento de professores e demais profissionais do ambiente escolar pois o TEA implica na necessidade de suporte em todos os níveis e exige atenção e acompanhamentos especiais. Para  a melhoria dessa situação é preciso que políticas públicas sejam direcionadas para essas necessidades. Espero que esse episódio tenha ajudado a entender um pouco mais sobre o TEA , os desafios enfrentados  pelas pessoas com o transtorno e a importância de trabalharmos juntos por um futuro mais inclusivo. Até o próximo episódio.
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Canva Para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
